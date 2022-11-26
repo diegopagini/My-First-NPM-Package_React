@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductButtons Debe de mostrar el componente 1`] = `
+<div
+  className="productCard undefined"
+>
+  <div
+    className="buttonsContainer undefined"
+  >
+    <button
+      className="buttonMinus"
+      onClick={[Function]}
+    >
+      -
+    </button>
+    <div
+      className="countLabel"
+    >
+      0
+    </div>
+    <button
+      className="buttonAdd false"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+</div>
+`;
+
+exports[`ProductButtons Debe de mostrar el componente correctamente 1`] = `
+<div
+  className="buttonsContainer undefined"
+>
+  <button
+    className="buttonMinus"
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <div
+    className="countLabel"
+  />
+  <button
+    className="buttonAdd false"
+    onClick={[Function]}
+  >
+    +
+  </button>
+</div>
+`;
