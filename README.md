@@ -10,7 +10,7 @@ Este es un paquete de pruebas de despliegue en NPM
 import {
   ProductCard,
   ProductImage,
-  ProductTitle,
+  ProducTitle,
   ProductButtons,
 } from 'dp-product-card';
 ```
